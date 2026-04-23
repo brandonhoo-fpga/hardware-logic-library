@@ -45,3 +45,5 @@ end
 
 // Drives the output port with the debounced register state
 assign o_Switch = r_State;
+
+endmodule
